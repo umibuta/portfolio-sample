@@ -32,6 +32,11 @@ a {
   color: #333;
   }
 }
+.profile {
+.header>h1 {
+color: #f00;
+}
+}
 
 .gnav {
 width: 100%;
